@@ -13,7 +13,7 @@ const reset = () => {
     renderCounterApp()
 }
 
-
+const appRoot = document.getElementById('app')
 
 const renderCounterApp = () => {
     const templateTwo = (
